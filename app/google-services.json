@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427200725147",
+    "project_id": "studentrecording-a8b13",
+    "storage_bucket": "studentrecording-a8b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427200725147:android:5fe2b7bf733e85f6f7c63e",
+        "android_client_info": {
+          "package_name": "com.screen.record"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBhsnoyTosKNcRE7EnB6EjpaTQa16DXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
